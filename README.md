@@ -72,4 +72,4 @@ TISE-Solver-FYP/
 │ └── fdm_solver.py
 │
 ├── README.md
-└── Report.pdf (optional: full research report)
+└── Thesis.pdf 
